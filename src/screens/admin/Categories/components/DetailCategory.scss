@@ -1,0 +1,9 @@
+.update-customer {
+    .ant-form-item-control-input-content {
+        display: flex !important;
+        align-items: center;
+    }
+    .ant-upload-list {
+        display: none !important;
+    }
+}
